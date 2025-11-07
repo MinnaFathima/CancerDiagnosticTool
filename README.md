@@ -1,4 +1,4 @@
-# 🧠 Hybrid CNN + ViT Cancer Detection Diagnostic Tool with Grad-CAM Visualization 🔬
+# 🧠 Hybrid CNN + ViT Cancer Detection & Diagnostic Tool with Grad-CAM Visualization 🔬
 
 > **An AI-powered diagnostic tool for accurate and explainable cancer detection from histopathological images**
 
